@@ -125,3 +125,17 @@ Thinking is part of engineering.
 It is never "finished."
 
 Every project, lesson, mistake, and improvement should strengthen the platform for future versions of myself.
+
+13. Interfaces Are Disposable
+
+Interfaces come and go.
+
+Chat today.
+
+Voice tomorrow.
+
+AR glasses someday.
+
+Parker OS should never depend on any single interface.
+
+The underlying data and services are permanent; interfaces are interchangeable.
