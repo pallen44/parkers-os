@@ -4,7 +4,7 @@
 
 Rather than building disconnected applications, Parker OS serves as the foundation that connects domains such as finance, wine, health, travel, projects, relationships, and AI into one cohesive system.
 
-Jarvis is not the operating system—it is the primary interface to it.
+The AI assistant is one of many interfaces to Parker OS. Other interfaces may include web applications, mobile apps, dashboards, APIs, voice, and future clients.
 
 ## Mission
 
@@ -26,7 +26,7 @@ AI should enhance the system, not define it.
 
 Instead of opening dozens of apps and manually connecting information, Parker OS becomes the single source of truth for my life.
 
-Jarvis can answer questions, make recommendations, and automate workflows because Parker OS already understands my data—not because any particular language model is inherently intelligent.
+The AI Assitant can answer questions, make recommendations, and automate workflows because Parker OS already understands my data—not because any particular language model is inherently intelligent.
 
 ## Initial Roadmap
 
@@ -36,7 +36,7 @@ Jarvis can answer questions, make recommendations, and automate workflows becaus
 4. Implement AI abstraction layer
 5. Add event system
 6. Add privacy and permissions framework
-7. Introduce Jarvis (read-only)
+7. Introduce The AI Assitant
 8. Expand into Finance
 9. Expand into Move Planner
 10. Expand into Life Simulator
