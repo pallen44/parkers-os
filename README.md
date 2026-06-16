@@ -1,5 +1,3 @@
-# README.md
-
 # Parker OS
 
 **Parker OS** is a model-agnostic, user-owned Personal Operating System designed to unify every aspect of my digital life into a single extensible platform.
