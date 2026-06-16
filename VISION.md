@@ -1,5 +1,3 @@
-# VISION.md
-
 # Parker OS Vision
 
 ## The Problem
